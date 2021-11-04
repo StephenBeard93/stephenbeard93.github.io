@@ -7,10 +7,6 @@ header:
   overlay_image: unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Global Economic Models"
-layouts_gallery:
-  - url: mm-layout-splash.png
-    image_path: mm-layout-splash.png
-    alt: "splash layout example"
 modified: 2016-04-18T16:39:37-04:00
 ---
 
