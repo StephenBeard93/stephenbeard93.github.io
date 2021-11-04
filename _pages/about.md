@@ -5,10 +5,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: unsplash-image-1.jpg
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Global Economic Models"
 layouts_gallery:
   - url: mm-layout-splash.png
     image_path: mm-layout-splash.png
