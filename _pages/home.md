@@ -3,9 +3,8 @@ permalink: /
 title: "About"
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: "0.0"
+  overlay_image: Cover_Scene3.jpg
 excerpt: "Global Economic Models"
 modified: 2016-04-18T16:39:37-04:00
 ---
