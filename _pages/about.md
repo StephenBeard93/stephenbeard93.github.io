@@ -5,7 +5,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: Lantern_Economics_Logo.png
-Lantern logo design Premium Vector - SB.eps
 excerpt: "Global Economic Models"
 modified: 2016-04-18T16:39:37-04:00
 ---
