@@ -17,9 +17,9 @@ Lantern Economics is a pilot project, looking to investigate the feasibility of 
 
 ## Why Economics Is Currently Broken
 
-Note that the criticisms leveled in this paragraph against mainstream economic research does not focus on any particular ideology, but instead focuses on the methodology taken by the profession in attemting to gain insights into the workings of the world. The Lantern philosophy does not promote any particular ideology, but instead focuses on creating a system that allows economic theories to be meaningfully tested, their usefullness assessed and any insights they uncover to be fed into a larger framework.   
+Note that the criticisms levelled in this paragraph against mainstream economic research does not focus on any particular ideology, but instead focuses on the methodology taken by the profession in attempting to gain insights into the workings of the world. The Lantern philosophy does not promote any particular ideology, but instead focuses on creating a system that allows economic theories to be meaningfully tested, their usefulness assessed and any insights they uncover to be fed into a larger framework.   
 
-| Existing Approach | Criticisms | Lantern's pruposed approach |
+| Existing approach | Criticisms | Lantern's proposed approach |
 |-------|--------|---------|
 | Use of unmeasurable input factors  | bad | good |
 | Treating Economics like a 'simple system' | bad | good |
