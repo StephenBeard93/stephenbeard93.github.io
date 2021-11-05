@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Lantern Economics"
-logo                     : '/images/Lantern.jpg'   
+logo                     : "/images/Lantern.jpg"   
 title_separator          : "-"
 name                     : &name "Stephen Beard"
 description              : &description "A Jack of all trades"
