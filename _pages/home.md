@@ -4,7 +4,7 @@ title: "About"
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: Cover_Scene3.jpg
+  overlay_image: Panoramic.png
 excerpt: "Global Economic Models"
 modified: 2016-04-18T16:39:37-04:00
 ---
