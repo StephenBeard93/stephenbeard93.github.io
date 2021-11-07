@@ -18,7 +18,8 @@ Lantern Economics is a pilot project, looking to investigate the feasibility of 
 ## What is the Goal of Lantern Economics
 
 Economic theories are invisible, seemingly illusory and often too complex to be engaged with by the general public or by policy makers. However these theories are hugely powerful and underpin our approach to dealing with the greatest problems of our generation, such as climate change and the need to lift billions of people out of absolute and relative poverty. Unless Economics can be revolutionised as a discipline, it will fail to provide the policy advice and framework to tackle these great problems. 
-The Goal of Lantern Economics is Long term in scope. 
+We believe that theories need to be tested, and that the best way to test them is to use them to make models which make real world predictions. Predicitions are also engaging for genearl people, so we advocate building Global Economic Models that make predictions regarding stock markets, bond markets and general economic development. All models can then be assessed against real world outcomes, and those that do well will gain credibility. 
+Of course Global models are hugely complex and in reality are composed of potentially hundreds of sub-models, which themselves may contain their own sub-models. Creating just one Global Economic Model seems daunting, but modularisation is at the heart of the Lantern concept. The goal is to build a  
 
 ## The Lantern Methodology
 
