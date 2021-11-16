@@ -19,7 +19,7 @@ We are looking for feedback from professional economists on the proposed Lantern
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSctS4sXl4CJH5g_czdqKE5brDXOmKm5mpwXL7eBPbF6aTuvUw/formResponse" method="post">
       <label>Which of the below statements do you believe best describes the current state of the discipline of Economics:</label>
-      <input type="radio" id="1" name="fvv" value="1">
+      <input type="radio" id="1" name="fvv" value="Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge">
       <label for = "1">Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge</label><br>
       <input type="radio" id="2" name="fvv" value="1">
       <label for = "2">Functional – academia is somewhat biased but in general more empirically justified ideas are selected as leading theories</label><br>
