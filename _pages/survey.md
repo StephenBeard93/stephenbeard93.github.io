@@ -17,4 +17,9 @@ Lantern Economics is a pilot project, looking to investigate the feasibility of 
 
 We are looking for feedback from professional economists on the proposed Lantern project, and any time taken to complete the below survey would be hugely appreciated.
 
-
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSctS4sXl4CJH5g_czdqKE5brDXOmKm5mpwXL7eBPbF6aTuvUw/formResponse" method="post">
+      <label>Name*</label>
+      <input type="radio" is="1" name="" value="">
+      <label for = "1">Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge</label><br>
+      <button type="submit">Send</button>
+</form>
