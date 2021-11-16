@@ -43,5 +43,5 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       <label for = "2.3">Economists and institutions generally choose a favoured school of thought and stick to it regardless of new evidence or empirically supported arguments</label><br>
   <input type="radio" id="2.4" name="entry.1624426445" value="Most Economists and institutions have chosen the same school of thought and stick to it regardless of new evidence or empirically supported arguments">
       <label for = "2.4">Most Economists and institutions have chosen the same school of thought and stick to it regardless of new evidence or empirically supported arguments</label><br>
-      <button type="submit" value="Submit">Send</button>
+      <button type="submit" value="Submit">Submit</button>
 </form>
