@@ -29,5 +29,5 @@ We are looking for feedback from professional economists on the proposed Lantern
       <label for = "4">Actively bad – academia is deliberately biased in favour of a status quo. Empirically well supported theories often fail to gain support. However, the fundamental assumptions of mainstream economics are solid</label><br>
   <input type="radio" id="5" name="entry.1346174101" value="1">
       <label for = "5">Actively bad – academia is deliberately biased in favour of a status quo. Empirically well supported theories often fail to gain support. The fundamental assumptions of mainstream economics are also significantly flawed</label><br>
-      <button type="submit">Send</button>
+      <button type="submit" value="Submit">Send</button>
 </form>
