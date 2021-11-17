@@ -146,7 +146,7 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       <label for = "12.3">No</label><br>
       
       <label><strong>13)(Optional opinion) Any additional comments or feedback about the proposed Lantern Project?</strong></label>
-      <input type="textarea" name="entry.666949788" rows ="12" cols ="50">
+      <input type="textarea" name="entry.1955042752" rows ="12" cols ="50">
       
       <button type="submit" value="Submit">Submit</button>
 </form>
