@@ -131,5 +131,11 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       <input type="checkbox" id="10.6" name="entry.143807576" value="Python">
       <label for = "10.6">Python</label><br>
   
+      <label><strong>11)Would you consider using machine learning as part of your research/sum-model construction?</strong></label>
+      <input type="radio" id="11.1" name="entry.1622888417" value="Yes">
+      <label for = "11.1">Yes</label><br>
+      <input type="radio" id="11.2" name="entry.1622888417" value="No">
+      <label for = "11.2">No</label><br>
+  
       <button type="submit" value="Submit">Submit</button>
 </form>
