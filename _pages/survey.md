@@ -95,7 +95,17 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       <input type="radio" id="7.5" name="entry.677728773" value="Do not fully understand the concept">
       <label for = "7.5">Do not fully understand the concept</label><br> 
   
-  
+      <label><strong>8)Another core concept is that ideas are only useful if well verified and well known. Given the controversy that surrounds competing economic theories, Lantern proposes to make the outputs of the Global Economic Model to be predictions of interest, such as stock market and bond market changes. These are of interest to many non-economists and aim to bring engagement with the public at large. Do you think this is a good idea?</strong></label>
+      <input type="radio" id="8.1" name="entry.1137649657" value="Very good">
+      <label for = "8.1">Very good</label><br>
+      <input type="radio" id="8.2" name="entry.1137649657" value="Good">
+      <label for = "8.2">Good</label><br>
+      <input type="radio" id="8.3" name="entry.1137649657" value="Neutral">
+      <label for = "8.3">Neutral</label><br>
+      <input type="radio" id="8.4" name="entry.1137649657" value="Bad">
+      <label for = "8.4">Bad</label><br>
+      <input type="radio" id="8.5" name="entry.1137649657" value="Very bad">
+      <label for = "8.5">Very bad</label><br>
   
       <button type="submit" value="Submit">Submit</button>
 </form>
