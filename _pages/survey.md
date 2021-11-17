@@ -137,5 +137,14 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       <input type="radio" id="11.2" name="entry.1622888417" value="No">
       <label for = "11.2">No</label><br>
   
+      <label><strong>12)Would you be interested in being involved in the Lantern Economics project as part of an advisory volunteer panel of Economist?</strong></label>
+      <input type="radio" id="12.1" name="entry.1421561504" value="Yes">
+      <label for = "12.1">Yes</label><br>
+      <input type="radio" id="12.2" name="entry.1421561504" value="Maybe">
+      <label for = "12.2">Maybe</label><br>
+      <input type="radio" id="12.3" name="entry.1421561504" value="No">
+      <label for = "12.3">No</label><br>
+      
+  
       <button type="submit" value="Submit">Submit</button>
 </form>
