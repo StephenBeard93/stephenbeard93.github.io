@@ -24,7 +24,7 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSctS4sXl4CJH5g_czdqKE5brDXOmKm5mpwXL7eBPbF6aTuvUw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
       <label><strong>1)Which of the below statements do you believe best describes the current state of the discipline of Economics:</strong></label>
       <input type="radio" id="1.1" name="entry.1346174101" value="Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge">
-      <label for = "1.1">Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge</label><br>
+      <label for = "1.1">Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge</label>
       <input type="radio" id="1.2" name="entry.1346174101" value="Functional – academia is somewhat biased but in general more empirically justified ideas are selected as leading theories">
       <label for = "1.2">Functional – academia is somewhat biased but in general more empirically justified ideas are selected as leading theories</label><br>
       <input type="radio" id="1.3" name="entry.1346174101" value="Ineffective – academia is failing to distinguish ‘good’ theories from ‘bad’ theories">
