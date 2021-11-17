@@ -43,5 +43,18 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       <label for = "2.3">Economists and institutions generally choose a favoured school of thought and stick to it regardless of new evidence or empirically supported arguments</label><br>
   <input type="radio" id="2.4" name="entry.1624426445" value="Most Economists and institutions have chosen the same school of thought and stick to it regardless of new evidence or empirically supported arguments">
       <label for = "2.4">Most Economists and institutions have chosen the same school of thought and stick to it regardless of new evidence or empirically supported arguments</label><br>
+  
+      <label><strong>3)Choose the answer that best represents your feelings in response to the statement ‘The current major academic and other Economic institutions allow me to produce research which has impact and meaning’</strong></label>
+      <input type="radio" id="3.1" name="entry.902897145" value="Agree Strongly">
+      <label for = "3.1">Agree Strongly</label><br>
+      <input type="radio" id="3.2" name="entry.902897145" value="Agree">
+      <label for = "3.2">Agree</label><br>
+      <input type="radio" id="3.3" name="entry.902897145" value="Neutral">
+      <label for = "3.3">Neutral</label><br>
+      <input type="radio" id="3.4" name="entry.902897145" value="Disagree">
+      <label for = "3.4">Disagree</label><br>
+      <input type="radio" id="3.5" name="entry.902897145" value="Disagree Strongly">
+      <label for = "3.5">Disagree Strongly</label><br>
+  
       <button type="submit" value="Submit">Submit</button>
 </form>
