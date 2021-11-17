@@ -80,5 +80,8 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       <input type="radio" id="5.5" name="entry.1582151616" value="Disagree Strongly">
       <label for = "5.5">Disagree Strongly</label><br>
   
+      <label><strong>6)(Optional opinion) Any additional comments or feedback about the current state of Economics?</strong></label>
+      <input type="textarea" name="entry.666949788" rows ="4" cols ="50">
+  
       <button type="submit" value="Submit">Submit</button>
 </form>
