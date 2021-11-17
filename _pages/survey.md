@@ -82,7 +82,6 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
   
       <label><strong>6)(Optional opinion) Any additional comments or feedback about the current state of Economics?</strong></label>
       <input type="textarea" name="entry.666949788" rows ="12" cols ="50">
-      </textarea>
   
       <label><strong>7)A core concept of Lantern Economics is that the main aim of Economics is to allow decision makers to correctly understand the likely outcome of their policy choices. For this reason, Lantern will measure the success of contributor’s work based on how much they can improve the accuracy of a Global Economic Model. Do you consider this a sensible approach?</strong></label>
       <input type="radio" id="7.1" name="entry.677728773" value="Very sensible">
@@ -148,7 +147,6 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       
       <label><strong>13)(Optional opinion) Any additional comments or feedback about the proposed Lantern Project?</strong></label>
       <input type="textarea" name="entry.666949788" rows ="12" cols ="50">
-      </textarea>
       
       <button type="submit" value="Submit">Submit</button>
 </form>
