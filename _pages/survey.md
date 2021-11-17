@@ -24,7 +24,7 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSctS4sXl4CJH5g_czdqKE5brDXOmKm5mpwXL7eBPbF6aTuvUw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
       <label><strong>1)Which of the below statements do you believe best describes the current state of the discipline of Economics:</strong></label>
       <input type="radio" id="1.1" name="entry.1346174101" value="Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge">
-      <label for = "1.1">Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge</label>
+      <label for = "1.1">Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge</label><br>
       <input type="radio" id="1.2" name="entry.1346174101" value="Functional – academia is somewhat biased but in general more empirically justified ideas are selected as leading theories">
       <label for = "1.2">Functional – academia is somewhat biased but in general more empirically justified ideas are selected as leading theories</label><br>
       <input type="radio" id="1.3" name="entry.1346174101" value="Ineffective – academia is failing to distinguish ‘good’ theories from ‘bad’ theories">
@@ -106,6 +106,18 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
       <label for = "8.4">Bad</label><br>
       <input type="radio" id="8.5" name="entry.1137649657" value="Very bad">
       <label for = "8.5">Very bad</label><br>
+  
+      <label><strong>9)Lantern Economics would create a platform for Economists to create sub-models which would then be integrated into the overall Global Economic Model. This would allow theories on specific areas of the economy to be tested. Would you want to collaborate and engage with Lantern to contribute your own sub-models?</strong></label>
+      <input type="radio" id="9.1" name="entry.1204726738" value="Very interested">
+      <label for = "9.1">Very interested</label><br>
+      <input type="radio" id="9.2" name="entry.1204726738" value="Interested">
+      <label for = "9.2">Interested</label><br>
+      <input type="radio" id="9.3" name="entry.1204726738" value="Neutral">
+      <label for = "9.3">Neutral</label><br>
+      <input type="radio" id="9.4" name="entry.1204726738" value="Not interested">
+      <label for = "9.4">Not interested</label><br>
+  
+  
   
       <button type="submit" value="Submit">Submit</button>
 </form>
