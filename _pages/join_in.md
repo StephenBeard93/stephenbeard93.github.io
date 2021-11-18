@@ -11,7 +11,13 @@ modified: 2016-04-18T16:39:37-04:00
 
 {% include base_path %}
 
-## Lantern Economics - The concept 
+## Content Goes Here 
  
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+onload="if(submitted) {window.location='/about/';}"></iframe>
 
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSdvgbt1HQ4f39IDZP3VXkHNZOInX5F1A5k1aJwHV9yQ6TBHRg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+  
+</form>
 
