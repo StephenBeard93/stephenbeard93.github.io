@@ -23,7 +23,7 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
   <input type="text" name="entry.2005620554" placeholder="Full Name">
   
   <label>Email*</label><br>
-  <input type="email" name="entry.1045781291" placeholder"Email">
+  <input type="email" name="entry.1045781291">
   
   <label>Current Job Title and Institution</label><br>
   <textarea name="entry.1065046570" placeholder ="Current or most recent Job title and institution worked at"></textarea>
