@@ -32,7 +32,7 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
   <textarea name="entry.839337160" placeholder="A brief summary of your work experience and skills"></textarea>
   
   <label>Motivation and Involvement</label><br>
-  <textarea name="entry.393839841" placeholder="Tell us a bit about yourself and What motivates you to be involved in the Lantern project"></textarea>
+  <textarea name="entry.393839841" placeholder="What motivates you to be involved in the Lantern project"></textarea>
   
   <input type="submit" value="Submit" />
   
