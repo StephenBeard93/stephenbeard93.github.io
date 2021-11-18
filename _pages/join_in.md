@@ -1,6 +1,6 @@
 ---
 permalink: /join_in/
-title: "Join In
+title: "Join In"
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
