@@ -23,12 +23,14 @@ foo:
 main:
   - title: "About"
     url: /about/
+    
+  - title: "Survey"
+    url: /survey/
 
   - title: "Blog"
     url: /year-archive/
 
-  - title: "Survey"
-    url: /survey/
+  
 
   #- title: "Terms &amp; Privacy Policy"
     #url: /terms/
