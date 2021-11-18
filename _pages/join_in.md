@@ -19,7 +19,7 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSdvgbt1HQ4f39IDZP3VXkHNZOInX5F1A5k1aJwHV9yQ6TBHRg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
   <label>Email*</label><br>
-  <input type="text" id="Email:" name="entry.1045781291">
+  <input type="text" id="Email:" name="entry.2005620554">
   <label for="Email">Email:</Label>
   
   <input type="submit" value="Submit" />
