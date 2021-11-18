@@ -11,7 +11,7 @@ modified: 2016-04-18T16:39:37-04:00
 
 {% include base_path %}
 
-## Content Goes Here T1
+## Content Goes Here T2
  
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
@@ -23,7 +23,7 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
   <input type="text" name="entry.2005620554">
   
   <label>Email*</label><br>
-  <input type="text" name="entry.1045781291">
+  <input type="email" name="entry.1045781291">
   
   <label>Current Job Title and Institution</label><br>
   <textarea name="entry.1065046570"></textarea>
