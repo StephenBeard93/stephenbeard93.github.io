@@ -21,5 +21,7 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
   <label><strong>Email*</strong></label><br>
       <input type="text" id="Email:" name="entry.2005620554">
   
+  <input type="submit" value="Submit" />
+  
 </form>
 
