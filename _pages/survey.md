@@ -22,6 +22,7 @@ We are looking for feedback from professional economists on the proposed Lantern
 onload="if(submitted) {window.location='/about/';}"></iframe>
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSctS4sXl4CJH5g_czdqKE5brDXOmKm5mpwXL7eBPbF6aTuvUw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+  <fieldset>
       <label><strong>1)Which of the below statements do you believe best describes the current state of the discipline of Economics:</strong></label><br>
       <input type="radio" class="radio" id="1.1" name="entry.1346174101" value="Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge">
       <label for = "1.1">Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge</label><br>
@@ -149,4 +150,5 @@ onload="if(submitted) {window.location='/about/';}"></iframe>
   <textarea name="entry.1955042752"></textarea>
       
       <button type="submit" value="Submit">Submit</button>
+  </fieldset>
 </form>
