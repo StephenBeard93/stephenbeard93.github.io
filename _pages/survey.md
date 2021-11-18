@@ -15,7 +15,7 @@ modified: 2016-04-18T16:39:37-04:00
 
 Lantern Economics is a pilot project, looking to investigate the feasibility of bringing an entirely new approach to a discipline struggling to produce meaningful policy advice in an ever more complex and interconnected world. The Lantern philosophy breaks from conventional academia in almost every way, with its core ideas being that the economy is a complex system and so should be approached as such, that software and AI should be both standard tools and a framework for building/testing larger economic ideas and philosophies, and that the efforts of any economist searching for insights should feed into a larger, collaborative 'peer to peer' network.
 
-We are looking for feedback from professional economists on the proposed Lantern project, and any time taken to complete the below survey would be hugely appreciated.
+We are looking for feedback from professional economists on the proposed Lantern project, and any time taken to complete the below survey would be hugely appreciated. _*Note please read the 'About' page for a description of the Lantern project before answering the survey*_
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
