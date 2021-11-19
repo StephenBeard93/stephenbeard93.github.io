@@ -4,7 +4,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: Panoramic.png
-excerpt: "Complex Systems"
+excerpt: "A discussion on the organic, emergent and complex system that is an Economy. Considering economics in this light provides clear insight into how to approach macroeconomic research"
 modified: 2020-11-04T16:03:49-04:00
 ---
 ## The Problem With Economics:
