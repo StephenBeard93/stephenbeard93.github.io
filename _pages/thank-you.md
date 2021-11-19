@@ -10,10 +10,12 @@ modified: 2016-04-18T16:39:37-04:00
 ---
 
 {% include base_path %}
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Thank you for taking the time to complete our Form!
 
 If you are interested in getting involved in the project then get in touch via the 'Join In' tab at the top of the page. 
