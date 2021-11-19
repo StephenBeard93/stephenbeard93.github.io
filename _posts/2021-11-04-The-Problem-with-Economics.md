@@ -4,7 +4,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: Panoramic.png
-excerpt: "Global Economic Models"
+excerpt: "Complex Systems"
 modified: 2020-11-04T16:03:49-04:00
 ---
 ## The Problem With Economics:
@@ -24,5 +24,5 @@ Measurements are much harder too. It’s reasonably straight forward to use weat
 Recognising the complexity of the challenge presented by Economics allows us to see that the approach taken to understanding it needs to replicate that taken by meteorology, with likely even more innovation and collaboration required to begin to build and create theories that are predictive and useful in the real world. 
 But this has not been the approach taken by macroeconomists. Macroeconomic research generally focuses on one specific area of the economy, attempting to first find a clear correlation between historical variables and then to use this correlation to make some future prediction. But as I have just outlined, an economy is a highly complex system that needs to be modelled as a whole if we are to understand the effects of any one area. 
 
-So why has economic research focused so much on small specific segments of the economy rather than examining and testing the whole system? I think this is likely a symptom of how research is structured, with economists all working individually or at best in small teams. Building a global economic model It is far too large a task for even a small team to achieve, and hence there is no choice for economic researchers other than to adopt an approach that is destined to fail from the outset. 
+So why has economic research focused so much on small specific segments of the economy rather than examining and testing the whole system? I think this is likely a symptom of how research is structured, with economists all working individually or at best in small teams. Building a global economic model is far too large a task for even a small team to achieve, and hence there is no choice for economic researchers other than to adopt an approach that is destined to fail from the outset. 
 
