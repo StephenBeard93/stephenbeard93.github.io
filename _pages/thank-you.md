@@ -1,6 +1,6 @@
 ---
 permalink: /thank-you/
-title: "Thanks You!"
+title: "Thank You!"
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
@@ -11,4 +11,7 @@ modified: 2016-04-18T16:39:37-04:00
 
 {% include base_path %}
 
-## Thank you for taking the time to complete our Form - all feedback is hugely appreciated. 
+
+
+
+## Thank you for taking the time to complete our Form !
