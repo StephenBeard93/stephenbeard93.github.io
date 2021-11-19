@@ -19,7 +19,7 @@ We are looking for feedback from professional economists on the proposed Lantern
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-onload="if(submitted) {window.location='/about/';}"></iframe>
+onload="if(submitted) {window.location='/thank-you/';}"></iframe>
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSctS4sXl4CJH5g_czdqKE5brDXOmKm5mpwXL7eBPbF6aTuvUw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
     <h2>Survey</h2>
