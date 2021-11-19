@@ -20,7 +20,7 @@ We need to assemble a board of volunteers who can offer specialist advice and gu
  
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-onload="if(submitted) {window.location='/about/';}"></iframe>
+onload="if(submitted) {window.location='/thank-you1/';}"></iframe>
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSdvgbt1HQ4f39IDZP3VXkHNZOInX5F1A5k1aJwHV9yQ6TBHRg/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
   
