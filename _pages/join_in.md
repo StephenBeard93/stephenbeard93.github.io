@@ -11,7 +11,10 @@ modified: 2016-04-18T16:39:37-04:00
 
 {% include base_path %}
 
-## Content Goes Here T2
+The Lantern Project is at an exploratory stage of development. The aim is to create a free, open source 'peer to peer' global economic model which allows economists all over the world to channel their efforts toward a larger overall project. Once fully established the organisation aims to be a non-profit, operating with a core team of employees helping create and maintain the required technology infrastructure.
+We need to assemble a board of volunteers who can offer specialist advice and guidance with regards to the continued development of our global economic model framework, software development, use of machine learning and statistical expertise. As such we'd be delighted to hear from economists, software engineers and statisticians. If you'd be interested in joining in or hearing more then please fill in the below form to get in touch.
+
+## Contact Form
  
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
