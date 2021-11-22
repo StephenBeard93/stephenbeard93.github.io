@@ -26,5 +26,5 @@ Technology evangelists see Economics as a prime target for AI because it’s a c
 
 There must be an acceptance that the best way to model certain parts of the economy will require abstracting beyond the point of easily understanding, but that this does not somehow detract from Economics as a discipline. Creating accurate AI driven models for specific parts of the economy facilitates the building of superior global economic models, which in turns allows higher level overarching questions to be tested and then proved or disproved via the use of simulation and predictions. 
 
-Arguably AI may be an essential tool to building global economic models, and it may not even be possible to build a truly useful model without the use of AI. However it is still just one aspect in an overall approach to building a global economic model and is unlikely to be a silver bullet in it’s own right.   
+Arguably AI is an essential tool to building global economic models, and it may not even be possible to build a truly useful model without the use of AI. However it is still just one aspect in an overall approach to building a global economic model and is unlikely to be a silver bullet in it’s own right.   
 
