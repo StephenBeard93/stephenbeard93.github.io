@@ -1,6 +1,6 @@
 ---
 permalink: /survey/
-title: "Survey"
+title: "What Do You Think?"
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
