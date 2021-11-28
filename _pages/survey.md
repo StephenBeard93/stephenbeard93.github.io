@@ -24,7 +24,7 @@ onload="if(submitted) {window.location='/thank-you/';}"></iframe>
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSctS4sXl4CJH5g_czdqKE5brDXOmKm5mpwXL7eBPbF6aTuvUw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
     <h2>Survey</h2>
       <label><strong>1)Which of the following statements do you believe best describes the current state of the discipline of economics:</strong></label><br>
-      <input type="radio" class="radio" id="1.1" name="entry.1346174101" value="Highly functional – academia is systematically improving our understanding of Economics, building on a foundation of proven knowledge">
+      <input type="radio" class="radio" id="1.1" name="entry.1346174101" value="Highly functional – academia is systematically improving our understanding of economics, building on a foundation of proven knowledge">
       <label for = "1.1">Highly functional – academia is systematically improving our understanding of economics, building on a foundation of proven knowledge</label><br>
       <input type="radio" id="1.2" name="entry.1346174101" value="Functional – academia is somewhat biased but in general more empirically justified ideas are selected as leading theories">
       <label for = "1.2">Functional – academia is somewhat biased but in general more empirically justified ideas are selected as leading theories</label><br>
@@ -42,7 +42,7 @@ onload="if(submitted) {window.location='/thank-you/';}"></iframe>
       <label for = "2.2">Economists and institutions tend to pick and choose elements from various schools of thought</label><br>
       <input type="radio" id="2.3" name="entry.1624426445" value="Economists and institutions generally choose a favoured school of thought and stick to it regardless of new evidence or empirically supported arguments">
       <label for = "2.3">Economists and institutions generally choose a favoured school of thought and stick to it regardless of new evidence or empirically supported arguments</label><br>
-      <input type="radio" id="2.4" name="entry.1624426445" value="Most Economists and institutions have chosen the same school of thought and stick to it regardless of new evidence or empirically supported arguments">
+      <input type="radio" id="2.4" name="entry.1624426445" value="Most economists and institutions have chosen the same school of thought and stick to it regardless of new evidence or empirically supported arguments">
       <label for = "2.4">Most economists and institutions have chosen the same school of thought and stick to it regardless of new evidence or empirically supported arguments</label><br><br>
   
       <label><strong>3)Choose the answer that best represents your feelings in response to the statement ‘The current major academic and other Economics institutions allow me to produce research which has impact and meaning’</strong></label><br>
