@@ -13,7 +13,7 @@ modified: 2016-04-18T16:39:37-04:00
 
 ## Lantern Economics - The Concept
 
-Lantern Economics is a pilot project, looking to investigate the feasibility of bringing an entirely new approach to a discipline struggling to produce meaningful policy advice in an ever more complex and interconnected world. The Lantern philosophy breaks from conventional academia in almost every way, with its core ideas being that the economy is a complex system and so should be approached as such, that software and AI should be both standard tools and a framework for building/testing larger economic ideas and philosophies, and that the efforts of any economist searching for insights should feed into a larger, collaborative 'peer to peer' network.
+Lantern Economics is a pilot project, looking to investigate the feasibility of bringing an entirely new approach to a discipline struggling to produce meaningful policy advice in an ever more complex and interconnected world. The Lantern methodology breaks from conventional academia in almost every way, with its core ideas being that the economy is a complex system and so should be approached as such, that software and AI should be both standard tools and a framework for building/testing larger economic ideas and philosophies, and that the efforts of any economist searching for insights should feed into a larger, collaborative 'peer to peer' network.
 
 ## What is the Goal of Lantern Economics
 
