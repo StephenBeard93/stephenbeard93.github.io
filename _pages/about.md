@@ -22,7 +22,7 @@ Economic theories are invisible, seemingly illusory and often too complex to be 
 We believe that theories need to be robustly tested, and that the best way to test them is to use them to make models yielding real world predictions that can be validated. Predictions are also engaging for general people, so we advocate building *global economic models* that make predictions regarding stock markets, bond markets and general economic development. All models can then be assessed against real world outcomes (as well as historic simulations), and those that do well will gain credibility. 
 
 Of course global models are hugely complex and in reality are composed of potentially hundreds of sub-models, which themselves may contain their own sub-models. Creating just one global economic model seems daunting, <strong><em>but modularisation is at the heart of the Lantern concept</em></strong>. The goal is to create an open-source model where economists can liaise with Lantern and build sub-models that fit into the overall *global economic framework*. While economists create the ideas to be tested (the sub-models), Lantern Economics' role is to design, build and maintain the software which can combine all produced sub-models into numerous global economic models, which themselves can then each be run as a simulation.
-<stong><em>Lantern Economics' goal is to take a highly technology driven approach to create a platform which allows economics ideas to be truly tested.</em></strong>
+<strong><em>Lantern Economics' goal is to take a highly technology driven approach to create a platform which allows economics ideas to be truly tested.</em></strong>
 
 ## The Lantern Methodology
 
