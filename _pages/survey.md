@@ -17,7 +17,7 @@ Lantern Economics is a pilot project, looking to investigate the feasibility of 
 
 We are looking for feedback from professional economists on the proposed Lantern project, and any time taken to complete the survey below would be hugely appreciated. _*Note: please read the 'About' page for a description of the Lantern project before answering the survey*_
 
-_*We also welcome feedback from students and those more widely interested in Economics. If not working professionally in economics could you please state this in answer 6*_
+_*We also welcome feedback from students and those more widely interested in Economics. If not working professionally in economics could you please state this in your answer to question 6*_
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
