@@ -5,13 +5,15 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: Panoramic.png
-excerpt: "Global Economic Models"
+excerpt: "Technology|Theory|Insight"
 modified: 2016-04-18T16:39:37-04:00
 ---
 
 {% include base_path %}
 
-## Lantern Economics - The Concept
+## Fresh Economic Thinking Meets Cutting Edge Technology
+
+Lantern Economics is on a mission to build the world's best global economic models, and by so doing to uncover groundbreaking economic insights with real world applicability to both Financial markets and government policy. We believe that the traditional approach to economic forecasting is fundamentally flawed in it's approach and therefore destined to fail. 
 
 Lantern Economics is a pilot project, looking to investigate the feasibility of bringing an entirely new approach to a discipline struggling to produce meaningful policy advice in an ever more complex and interconnected world. The Lantern philosophy breaks from conventional academia in almost every way, with its core ideas being that the economy is a complex system and should be approached as such, that software and AI should provide both standard tools and a framework for building/testing larger economic ideas and philosophies, and that the efforts of any economist searching for insights should feed into a larger, collaborative 'peer to peer' network.
 
