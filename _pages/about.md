@@ -13,7 +13,9 @@ modified: 2016-04-18T16:39:37-04:00
 
 ## Fresh Economic Thinking Meets Cutting Edge Technology
 
-Lantern Economics is on a mission to build the world's best global economic models, and by so doing to uncover groundbreaking economic insights with real world applicability to both Financial markets and government policy. We believe that the traditional approach to economic forecasting is fundamentally flawed in it's approach and therefore destined to fail. 
+Lantern Economics is on a mission to build the world's best global economic models, and by so doing aims to uncover groundbreaking economic insights with real world applicability to both financial markets and government policy. Our economic models are continually evolving and are built using Lantern's unique methodology, which is built around three core principles: 
+<ol>
+  <li> <strong><em>unbiased</em></strong> - Economics is divided into many differing and contradicting schools of thought. Lantern Economics does not build models limited by the theoretical basis of one school of thought. Instead we assess every underlying assumption that we use and always try to select the most empirically well supported theories on an asumption by assumption basis. This rigerous and intuitive approach differs sharply with the docmatic economic ideologies used to build most major economic models </li>  
 
 Lantern Economics is a pilot project, looking to investigate the feasibility of bringing an entirely new approach to a discipline struggling to produce meaningful policy advice in an ever more complex and interconnected world. The Lantern philosophy breaks from conventional academia in almost every way, with its core ideas being that the economy is a complex system and should be approached as such, that software and AI should provide both standard tools and a framework for building/testing larger economic ideas and philosophies, and that the efforts of any economist searching for insights should feed into a larger, collaborative 'peer to peer' network.
 
