@@ -1,5 +1,5 @@
 ---
-permalink: /join_in/
+permalink: /be_involved/
 title: "Join In"
 header:
   overlay_color: "#000"
