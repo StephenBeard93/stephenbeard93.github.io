@@ -27,24 +27,6 @@ For these reasons Lantern Economics aims to establish itself as a social enterpr
   
 Our publicly published report will always be somewhat behind our latest global economic model and research. We aim to offer a range of high value products and services based on our latest research to financial institutions looking to gain priceless macroeconomic insight. 
 
-
-We believe that theories need to be robustly tested, and that the best way to test them is to use them to make models yielding real world predictions that can be validated. Predictions are also engaging for general people, so we advocate building *global economic models* that make predictions regarding stock markets, bond markets and general economic development. All models can then be assessed against real world outcomes (as well as historic simulations), and those that do well will gain credibility. 
-
-## The Lantern Methodology
-
-The Lantern methodology does not promote any particular ideology, but instead focuses on creating a system that allows economic theories to be meaningfully tested, their usefulness assessed and any insights they uncover to be fed into a larger framework. Below is a step by step description of stages that any researcher who collaborated with Lantern would go through:
-
-| Step | Description |
-|-------|----------|
-| Decide to work with Lantern | Great! You've had a clear piece of research in mind, but you don't just want to write another article which will gather dust. Instead, you want your work to contribute to a much larger project where it can feed into a collaborative systematic search to gain true economic insight. |
-| Check you've got the right skills | Make sure that you have at least basic programming skills in Lantern's main programming language. | 
-| Review the current Lantern Framework | The Lantern Framework is the scaffolding on which the *global economic model* is built. This effectively breaks down the economy into different sectors (i.e., GDP prediction, Capital Markets and Flows, International trade, etc...) and maps out how these sectors communicate and how economic data flows from one sector to another within the model. The proposed Lantern project is designed to be highly modular, meaning that you can translate your research into a small sub-model which fits into the overall framework. |      
-| Submit a proposal | You've reviewed the framework and can see a missing piece, so it's time to fill in the online form to propose a project. Your project will then be assessed by our panel to 1) to make sure that a similar project does not already exist 2) check that the key assumptions in your model are defensible (i.e. not clearly contradicted by real world evidence) 3) check that it is testable (i.e. that it makes predictions using readily available macroeconomic data and so can be tested on historic data and on future performance) and 4) to give it an overall score to assess its potential usefulness. |  
-| Feedback | You will receive feedback on your project, which will have both input from our panel of economists and from our software engineers. The software engineers are responsible for making sure that work undertaken can integrate into the overall framework, and will therefore offer technical guidance and requirements on this |
-| Approval and resource allocation | If your project is approved then you will be allocated resources. Resource allocation refers to Lantern staff time required to integrate your finished sub-model within the overall framework. | 
-| Build your sub-model | Build your sub-model | 
-| Sub-model integration | Once completed and reviewed, your sub-model will be integrated into the main Lantern Framework. Integration does not mean that your sub-model will be used in the main framework, rather it means that it will be available for use. One of the founding concepts of Lantern is that an economy is a complex system, and so the true usefulness of your sub-model will only be revealed by testing its predictive capabilities when combined with numerous other versions of the Lantern Framework. <strong><em>Building software capable of automatically combining numerous sub-models within the Lantern framework and running their historic simulations is a major goal of the project.</em></strong> |
-
 ## Where Is The Lantern Economics Project Now? 
 Lantern Economics methodology is at the pilot stage and we are currently gathering feedback from the Economics community to gauge interest and gather valuable feedback. If you would like to share your opinion on this project please complete the form found under the survey tab at the top of the website. 
 
