@@ -23,15 +23,12 @@ foo:
 main:
   - title: "About"
     url: /about/
-    
-  - title: "Survey"
-    url: /survey/
 
   - title: "Blog"
     url: /year-archive/
     
-  - title: "Join In"
-    url: /join_in/
+  - title: "Be Involved"
+    url: /be_involved/
 
   
 
