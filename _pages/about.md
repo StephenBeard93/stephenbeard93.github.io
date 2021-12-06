@@ -27,6 +27,6 @@ For these reasons Lantern Economics aims to establish itself as a social enterpr
   
 Our publicly published report will always be somewhat behind our latest global economic model and research. We aim to offer a range of high value products and services based on our latest research to financial institutions looking to gain priceless macroeconomic insight. 
 
-## Where Is The Lantern Economics Project Now? 
-Lantern Economics methodology is at the pilot stage and we are currently gathering feedback from the Economics community to gauge interest and gather valuable feedback. If you would like to share your opinion on this project please complete the form found under the survey tab at the top of the website. 
+## Be Involved In Something Big 
+Lantern Economics is looking to build a core panel of academic and industry experts to progress the project further. We're on the look out for rockstar economists, AI specialists, software engineers and statisticiains. If you want to find out more then just send an email via the Join in tab at the top of the page.   
 
