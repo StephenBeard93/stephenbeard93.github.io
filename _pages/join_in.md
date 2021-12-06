@@ -11,10 +11,9 @@ modified: 2016-04-18T16:39:37-04:00
 
 {% include base_path %}
 
-## Volunteer
+## Be Involved
 
-The Lantern Project is at an exploratory stage of development. The aim is to create a free, open source, 'peer to peer' global economic model which allows economists all over the world to channel their efforts toward a larger overall project. Once fully established the organisation aims to be a non-profit, operating with a core team of employees helping to create and maintain the required technological infrastructure.
-We need to assemble a board of volunteers who can offer specialist advice and guidance with regards to the continued development of our global economic model framework, software development, use of machine learning and statistical evaluation. As such we'd be delighted to hear from economists, software engineers and statisticians. If you'd be interested in joining in or hearing more then please fill in the form below to get in touch.
+Lantern Economics is at a pre-funding stage. We require a panel of experts to help formalise our methodology and approach. Members on our panel would effectively be cofounders and receive an equity stake in return for their efforts. We are looking for people who can offer specialist advice and guidance with regards to the continued development of our global economic model framework, software development, use of machine learning and statistical evaluation. As such we'd be delighted to hear from economists, software engineers and statisticians. If you'd be interested in joining in or hearing more then please fill in the form below to get in touch.
 
 ## Contact Form
  
@@ -36,8 +35,8 @@ onload="if(submitted) {window.location='/thank-you1/';}"></iframe>
   <label>About You (Work Experience And Skills)</label><br>
   <textarea name="entry.839337160" placeholder="A brief summary of your work experience and skills"></textarea>
   
-  <label>Motivation and Involvement</label><br>
-  <textarea name="entry.393839841" placeholder="What motivates you to be involved in the Lantern project"></textarea>
+  <label>Message</label><br>
+  <textarea name="entry.393839841" placeholder="Dear Lantern Economics,"></textarea>
   
   <input type="submit" value="Submit" />
   
