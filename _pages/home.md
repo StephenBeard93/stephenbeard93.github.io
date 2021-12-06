@@ -29,7 +29,7 @@ For these reasons Lantern Economics aims to establish itself as a social enterpr
 Our publicly published report will always be somewhat behind our latest global economic model and research. To generate revenue we aim to offer a range of high value products and services based on our latest research to financial institutions looking to gain priceless macroeconomic insight. Any well researched, tested and validated macroeconomic insights will be of enormous value to financial institutions.  
 
 ## Be Involved In Something Big 
-Lantern Economics is looking to build a core panel of academic and industry experts to progress the project further. We're on the lookout for rockstar economists, AI specialists, software engineers and statisticians. If you want to find out more then get in touch via the ‘Join In’ tab at the top of the page.   
+Lantern Economics is looking to build a core panel of academic and industry experts to progress the project further. We're on the lookout for rockstar economists, AI specialists, software engineers and statisticians. If you want to find out more then get in touch via the ‘Be Involved’ tab at the top of the page.   
 
 
 
