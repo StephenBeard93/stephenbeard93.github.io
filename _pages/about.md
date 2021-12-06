@@ -20,8 +20,13 @@ Lantern Economics is on a mission to build the world's best global economic mode
   <li><strong><em>Modular</em></strong> - The only way to test a theory is to see whether it's inclusion into a global economic model (GEM) can increase the overal predictive power of said GEM on a long-term historical simulation. Each theory is effectively a sub-model within the overal GEM, and there could be hundreds of sub-models composing a GEM. One of the core goals of Lantern is to create a highly modular framework, which will allow sub-models to be automatically replaced by competing sub-models of the same type, and a new historic simulation run to find out if the competing theory increased predictive power for the GEM. A modular framework facilitates rapid testing and improving of our GEM.</li>         
 
 ## The Private Sector Meets Economic Research 
-
+  
 Economic theories are invisible, seemingly illusory and often too complex to be engaged with by the general public or by policy makers. However these theories are hugely powerful and underpin our approach to dealing with the greatest problems of our generation, such as climate change and the need to lift billions of people out of absolute and relative poverty. Unless Economics can be revolutionised as a discipline, it will fail to provide the policy advice and framework to tackle these great problems. 
+
+For these reasons Lantern Economics aims to establish itself as a social enterprise. We aim to publish an open annual report detailing all of our latest findings and insights discovered from our research. The social mission is to demonstrate the remarkable gains that can be made in the field of economics by adopting a radical new methodolgy in our approach to Economic research. 
+  
+Our publicly published report will always be somewhat behind our latest global economic model and research. We aim to offer a suite of macroeconomic services to Financial institutions
+
 
 We believe that theories need to be robustly tested, and that the best way to test them is to use them to make models yielding real world predictions that can be validated. Predictions are also engaging for general people, so we advocate building *global economic models* that make predictions regarding stock markets, bond markets and general economic development. All models can then be assessed against real world outcomes (as well as historic simulations), and those that do well will gain credibility. 
 
